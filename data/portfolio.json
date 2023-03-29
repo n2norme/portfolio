@@ -31,7 +31,7 @@
             "title": "Ce CV et portfolio en ligne",
             "description": "J'ai développé avec le Framework Next JS, Tailwind CSS et j'ai déployé l'application sur un serveur Linux. Les données de ce site sont stockées au format JSON",
             "imageSrc": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=markus-winkler-7iSEHWsxPLw-unsplash.jpg",
-            "url": "https://www.n2norme.fr"
+            "url": ""
         },
         {
             "id": "2",
