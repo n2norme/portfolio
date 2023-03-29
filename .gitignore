@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/pages/edit.js
 # next.js
 /.next/
 /out/
