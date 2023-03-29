@@ -80,7 +80,7 @@ const Resume = () => {
                 </div>
               </div>
               <div className="mt-5">
-                <h1 className="text-2xl font-bold">Compétenecs</h1>
+                <h1 className="text-2xl font-bold">Compétences</h1>
                 <div className="flex mob:flex-col desktop:flex-row justify-between">
                   {resume.languages && (
                     <div className="mt-2 mob:mt-5">
