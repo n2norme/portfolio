@@ -1,0 +1,138 @@
+{
+    "name": "Nicolas Denorme",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "Je m'appelle Nicolas",
+    "headerTaglineThree": "développeur Web Fullstack et DevOps",
+    "headerTaglineFour": "basé dans le nord de la France",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/n2norme"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/nicolas-denorme-88781719b/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:nicolas.denorme@outlook.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Ce CV et portfolio en ligne",
+            "description": "J'ai développé avec le Framework Next JS, Tailwind CSS et j'ai déployé l'application sur un serveur Linux. Les données de ce site sont stockées au format JSON",
+            "imageSrc": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=markus-winkler-7iSEHWsxPLw-unsplash.jpg",
+            "url": "https://www.n2norme.fr"
+        },
+        {
+            "id": "2",
+            "title": "Jeu de mémoire",
+            "description": "Développé en JS, jeu de mémoire avec des cartes qui se retournent, avec un système de score et de temps",
+            "imageSrc": "https://images.unsplash.com/photo-1605106325682-3482f7c1c9c4?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=magicpattern-f8sDFh-So88-unsplash.jpg",
+            "url": "https://www.game.n2norme.fr"
+        },
+        {
+            "id": "3",
+            "title": "Calculatrice",
+            "description": "Une calculatrice développée en Javascript, sans framework",
+            "imageSrc": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charlesdeluvio-GlavtG-umzE-unsplash.jpg",
+            "url": "https://www.calculator.n2norme.fr"
+        },
+        {
+            "id": "4",
+            "title": "Site de voyage",
+            "description": "Premier site que j'ai intégré, HTML et CSS uniquement",
+            "imageSrc": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=annie-spratt-qyAka7W5uMY-unsplash.jpg",
+            "url": "https://www.travel.n2norme.fr"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Développement Web",
+            "description": "Je suis titulaire du titre professionnel de Développeur Web et Web Mobile, j'ai développé des applications web en Javascript, React, NodeJS, Express, MongoDB, MySQL"
+        },
+        {
+            "id": "2",
+            "title": "Web Design",
+            "description": "Je fais des maquettes de sites web responsives, adaptés à tous les supports, mobiles, tablettes et ordinateurs. J'utilise Figma ou Adobe XD pour cela."
+        },
+        {
+            "id": "3",
+            "title": "Infrastructures et Cloud (DevOps)",
+            "description": "Durant ma formation, j'ai appris à administrer des serveurs Linux, à déployer des applications web, à configurer des bases de données, à mettre en place des environnements de développement et de production."
+        },
+        {
+            "id": "4",
+            "title": "Gestion base de données",
+            "description": "J'ai appris à gérer des bases de données MySQL et MongoDB, à créer des requêtes SQL, à créer des schémas de données, à mettre en place des bases de données relationnelles et non relationnelles."
+        }
+    ],
+    "aboutpara": "Je suis un développeur web fullstack et DevOps, j'ai développé des applications web en Javascript, React, NodeJS, Express, MongoDB, MySQL. J'ai également appris à administrer des serveurs Linux, à déployer des applications web, à configurer des bases de données, à mettre en place des environnements de développement et de production.",
+    "resume": {
+        "tagline": "Je m'appelle Nicolas Denorme, développeur web fullstack et DevOps, j'ai développé des applications web en Javascript, React, NodeJS, Express, MongoDB, MySQL. J'ai également appris à administrer des serveurs Linux, à déployer des applications web, à configurer des bases de données, à mettre en place des environnements de développement et de production.",
+        "description": "Ouvert à toutes propositions, je suis à la recherche d'un emploi en tant que développeur web fullstack ou DevOps. Je suis disponible immédiatement.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "Octobre 2022 - Décembre 2022",
+                "type": "Temps plein",
+                "position": "Développeur infrastructure chez Inetum",
+                "bullets": "Télétravail"
+            },
+            {
+                "id": "2",
+                "dates": "Avril 2022 - Septembre 2022",
+                "type": "Formation chez M2i",
+                "position": "Administrateur Cloud et DevOps",
+                "bullets": "Présentiel"
+            },
+            {
+                "id": "3",
+                "dates": "Janvier 2022 - Avril 2022",
+                "type": "Temps plein",
+                "position": "Technicien Helpdesk chez Interway",
+                "bullets": "Pour le client McDonalds, Je prenais les appels entrants et je faisais du ticketing pour les problèmes informatiques des restaurants"
+            }
+            ],
+
+            "education": {
+                "universityName": "POP School",
+                "universityDate": "2020 (6 mois)",
+                "universityPara": "Titre professionnel de Développeur Web et Web Mobile"
+            },
+            "languages": [
+                "Javascript",
+                "Python",
+                "SQL"
+            ],
+            "frameworks": [
+                "React",
+                "NextJS",
+                "NodeJS"
+            ],
+            "others": [
+                "Linux (Ubuntu, Debian, RedHat)",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "AWS,GCP et Azure",
+                "AdobeXD",
+                "Figma",
+                "HTML5",
+                "CSS3",
+                "NPM",
+                "Git"
+                
+            ]
+        }
+    }
